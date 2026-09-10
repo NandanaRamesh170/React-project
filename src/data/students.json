@@ -1,0 +1,13 @@
+[
+  {
+    "uid": "STU2024001",
+    "password": "activity123",
+    "name": "Aarav Menon",
+    "department": "Computer Science & Engineering",
+    "semester": "Semester 6",
+    "email": "aarav.menon@campus.edu",
+    "phone": "+91 98765 43210",
+    "joined": "2022",
+    "targetPoints": 100
+  }
+]

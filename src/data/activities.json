@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "National Coding Hackathon", "category": "Technical", "date": "2025-08-16", "description": "Built a campus mobility prototype with a three-person team.", "claimed": 20, "approved": 20, "status": "Approved" },
+  { "id": 2, "title": "Google Cloud Skills Boost", "category": "Professional", "date": "2025-07-28", "description": "Completed the cloud engineering learning pathway.", "claimed": 15, "approved": 15, "status": "Approved" },
+  { "id": 3, "title": "Inter-college Badminton", "category": "Sports", "date": "2025-07-05", "description": "Represented the department in the university tournament.", "claimed": 10, "approved": 10, "status": "Approved" },
+  { "id": 4, "title": "Green Campus Drive", "category": "Social service", "date": "2025-06-21", "description": "Organised a tree planting and waste segregation drive.", "claimed": 10, "approved": 8, "status": "Approved" },
+  { "id": 5, "title": "Design Thinking Workshop", "category": "Technical", "date": "2025-05-12", "description": "Participated in a two-day product discovery workshop.", "claimed": 8, "approved": 8, "status": "Approved" },
+  { "id": 6, "title": "Student Tech Club Coordinator", "category": "Leadership", "date": "2025-04-08", "description": "Coordinated weekly sessions and onboarding for 60 members.", "claimed": 12, "approved": 0, "status": "Under review" }
+]

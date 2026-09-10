@@ -1,0 +1,8 @@
+[
+  { "id": "technical", "name": "Technical", "description": "Hackathons, workshops and technical certifications", "color": "orange" },
+  { "id": "professional", "name": "Professional", "description": "Internships, conferences and career readiness", "color": "blue" },
+  { "id": "sports", "name": "Sports", "description": "Athletics, fitness and competitive sports", "color": "green" },
+  { "id": "cultural", "name": "Cultural", "description": "Arts, festivals, music and creative expression", "color": "pink" },
+  { "id": "social", "name": "Social service", "description": "Community support and volunteering", "color": "purple" },
+  { "id": "leadership", "name": "Leadership", "description": "Clubs, student bodies and entrepreneurship", "color": "yellow" }
+]
